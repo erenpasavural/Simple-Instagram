@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "444940458706",
+    "project_id": "simple-instagram-10971",
+    "storage_bucket": "simple-instagram-10971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444940458706:android:cb7228642a61b21196ab0b",
+        "android_client_info": {
+          "package_name": "com.example.simpleinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444940458706-a5t6tcukc1nvhp3f5r7do6n8onqio68g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZqkX95Da2fBfBkNW9alavSbTuvb3YiQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444940458706-a5t6tcukc1nvhp3f5r7do6n8onqio68g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
